@@ -1,0 +1,24 @@
+.counter {
+    width: 500px;
+    background-color: gray;
+    border-radius: 20px;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.counter span {
+    font-size: 90px;
+    color: blue;
+    display: block;
+    padding: 50px;
+}
+
+.counter button {
+    width: 150px;
+    height: 50px;
+    font-size: 3xxxx0px;
+    color: blue;
+    border-radius: 10px;
+    border: none;
+    margin: 50px 10px;
+}
